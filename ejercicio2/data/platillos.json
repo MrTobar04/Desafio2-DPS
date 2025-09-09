@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pupusas",
+    "descripcion": "Tortillas rellenas de queso, frijoles etc.",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgJ3-PZeq2LvSa1uvyOa1rg6fCVT5dRQFe1A&s",
+    "ingredientes": ["Maíz", "Queso", "Frijoles", "Loroco"],
+    "region": "El Salvador",
+    "precio": 0.75,
+    "categoria": "Comida típica"
+  },
+  {
+    "id": 2,
+    "nombre": "Yuca frita con pepescas",
+    "descripcion": "Yuca frita servida con pepescas y curtido.",
+    "foto": "https://www.aceiteideal.com/wp-content/uploads/2020/08/PORTADA-YucaFrita.png",
+    "ingredientes": ["Yuca", "Pepescas", "Curtido"],
+    "region": "El Salvador",
+    "precio": 2.00,
+    "categoria": "Comida típica"
+  },
+  {
+    "id": 3,
+    "nombre": "Tamales de elote",
+    "descripcion": "Tamales dulces hechos con maíz tierno, mantequilla",
+    "foto": "https://guanacos.com/wp-content/uploads/2024/09/GUANACOS-TAMALES-DE-ELOTE-SALVADORENOS-2-1024x768.webp",
+    "ingredientes": ["Maíz tierno", "Mantequilla", "Azúcar", "Leche"],
+    "region": "El Salvador",
+    "precio": 1.00,
+    "categoria": "Comida típica"
+  },
+  {
+    "id": 4,
+    "nombre": "Sopa de res",
+    "descripcion": "Sopa caliente con carne de res, verduras y yuca.",
+    "foto": "https://i.pinimg.com/736x/c7/4b/fe/c74bfe3dd5a4ef253fd0952b5672b060.jpg",
+    "ingredientes": ["Carne de res", "Yuca", "Zanahoria", "Chayote", "Maíz"],
+    "region": "El Salvador",
+    "precio": 3.50,
+    "categoria": "Comida típica"
+  },
+  {
+    "id": 5,
+    "nombre": "Atol de elote",
+    "descripcion": "Bebida caliente y espesa hecha a base de maíz y canela.",
+    "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh46XpKZ2zTFK2hMqqgS_qAvXlcYGfGhZp2B-XUZjyh8BvAXy7RuqNry4RZoWKOl7xl_FnZjAvOKhdzxDdhOrxPTnOzqUiQvAuq8d-RSDEVUMDsEixz0VXcftsVBzpGUAH0t4EMukozsC0/s1600/Atol+de+Elote.tif",
+    "ingredientes": ["Maíz", "Azúcar", "Canela", "Leche"],
+    "region": "El Salvador",
+    "precio": 1.00,
+    "categoria": "Bebida típica"
+  },
+  {
+    "id": 6,
+    "nombre": "Panes con pollo",
+    "descripcion": "Baguette relleno de pollo y verduras",
+    "foto": "https://foreignfork.com/wp-content/uploads/2022/06/PanconPolloFEATURE.jpg",
+    "ingredientes": ["Pan", "Pollo", "Lechuga", "Tomate"],
+    "region": "El Salvador",
+    "precio": 2.50,
+    "categoria": "Comida rápida"
+  },
+  {
+    "id": 7,
+    "nombre": "Empanadas de plátano",
+    "descripcion": "Plátano frito relleno de frijoles o dulce de leche.",
+    "foto": "https://latinfoodsatyourdoor.com/cdn/shop/files/EMPANADA-DE-LECHE-TIPICOS-MARGOT.png?v=1695181849&width=1214",
+    "ingredientes": ["Plátano", "Frijoles", "Dulce de leche", "Aceite"],
+    "region": "El Salvador",
+    "precio": 0.50,
+    "categoria": "Postre"
+  },
+  {
+    "id": 8,
+    "nombre": "Enchiladas salvadoreñas",
+    "descripcion": "Tortilla frita con carne, repollo, salsa y huevo duro.",
+    "foto": "https://i.pinimg.com/474x/18/9e/78/189e78c0d8b41a2f240c3b4b3a2490f8.jpg",
+    "ingredientes": ["Tortilla", "Carne", "Repollo", "Huevo", "Salsa"],
+    "region": "El Salvador",
+    "precio": 1.00,
+    "categoria": "Comida típica"
+  },
+  {
+    "id": 9,
+    "nombre": "Sopa de gallina india",
+    "descripcion": "Sopa nutritiva con gallina criolla, verduras y fideos.",
+    "foto": "https://media.istockphoto.com/id/1173599844/es/foto/sopa-mulligatawny-con-naan.jpg?s=612x612&w=0&k=20&c=n_TvudkHyme8N0kfOZ3AVW1x1u56VWiFT-D8HFq_ky0=",
+    "ingredientes": ["Gallina", "Zanahoria", "Papa", "Fideos", "Muchas más verduras..."],
+    "region": "El Salvador",
+    "precio": 3.50,
+    "categoria": "Comida típica"
+  },
+  {
+    "id": 10,
+    "nombre": "Horchata",
+    "descripcion": "Bebida refrescante de El Salvador hecha a partir de semillas de morro que le dan un sabor único.",
+    "foto": "https://cdn-pro.elsalvador.com/wp-content/uploads/2020/11/Horchata.-Bebidas.jpg",
+    "ingredientes": ["Agua", "Canela", "Leche", "Azúcar"],
+    "region": "El Salvador",
+    "precio": 0.50,
+    "categoria": "Bebida típica"
+  }
+]
