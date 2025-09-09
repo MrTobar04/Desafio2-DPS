@@ -15,7 +15,14 @@
 
 ---
 
+### 👥 Colaboradores
 
+| Nombre | Carnet |
+|--------|---------|
+| **Melissa Abigail Flores Alfaro** | FA220709 |
+| **Gabriel Ernesto Tobar Agrego** | TA220649 |
+
+---
 
 
 ### 📋 Requisitos del Sistema
@@ -44,12 +51,3 @@ npx react-native run-android
 
 # Ejecutar en iOS
 npx react-native run-ios
-
-### 👥 Colaboradores
-
-| Nombre | Carnet |
-|--------|---------|
-| **Melissa Abigail Flores Alfaro** | FA220709 |
-| **Gabriel Ernesto Tobar Agrego** | TA220649 |
-
----
